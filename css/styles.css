@@ -273,4 +273,8 @@ nav h1 a {
   color: #666;
 }
 
-
+#restaurants-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
